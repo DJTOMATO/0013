@@ -1,0 +1,218 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    /**background-color: #000000;**/
+}
+
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
+
+.header {
+    background-color: #000000;
+    font-size: 50px;
+    font-family: "Raleway";
+    font-weight: 500;
+    color: #ffffff;
+    text-align: center;
+    width: auto;
+    top: auto;
+    left: 0px;
+    border-bottom: 0px;
+    border-top: 0px;
+    margin: 0;
+    padding: 0;
+    height: 73px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+.iguana {
+    background-size: 100%;
+    width: 100%;
+
+}
+
+.iguana img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.body {
+    margin: 0;
+}
+
+
+.box {
+    left: 0px;
+    width: 100%;
+    height: auto;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.box .desc-img {
+    width: 399px;
+    height: 500px;
+    float: right;
+    background-image: url("img/iguana-1.jpg");
+    background-repeat: no-repeat;
+    opacity: 1;
+    padding-right: 400px
+}
+
+.box .desc-img img {
+    display: block;
+    height: auto;
+    max-width: 80%;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+.box .desc-section {
+    background-color: #000000;
+    width: 50%;
+    height: auto;
+    float: left;
+    padding: 20px 10px 0px 35px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    font-size: 30px;
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #ffffff;
+    text-align: left;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+
+}
+
+.icons-section {
+    height: 1141px;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 0.98;
+    font-size: 30px;
+    font-family: Raleway;
+    color: #ffffff;
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    padding-top: 80px;
+    padding-bottom: 65px;
+
+
+
+}
+
+.icons-section h1 {
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 55px;
+    font-family: "Raleway";
+    font-weight: 500;
+}
+
+.icons-section p {
+    padding-top: 30px;
+    width: 22%;
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+}
+
+.icons-section .f {
+    font-size: 40px;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 20px;
+    font-family: "Raleway";
+    font-weight: 300;
+
+}
+
+.fa-eye::before {
+    content: "";
+    font-size: 55px;
+}
+
+
+
+.fa-hand-peace-o:before {
+    content: "\f25b";
+    font-size: 55px;
+
+}
+
+.fa-paint-brush:before {
+    content: "\f1fc";
+    font-size: 55px;
+}
+
+.fa {
+    text-align: center;
+}
+
+.gallerybox {
+    left: 0px;
+    width: 100%;
+    height: 300px;
+    background: #000000 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: block;
+    padding-top: 90px;
+    padding-bottom: 80px;
+    padding-left: 10px;
+
+
+}
+
+.gallery {
+    display: flex;
+    float: left;
+    padding-right: 20px;
+    width: 25%;
+    height: auto;
+    padding: 20px;
+
+}
+
+.gallery img {
+    margin-left: 20px;
+}
+
+footer {
+    left: 0px;
+    width: 100%;
+    height: auto;
+    background: #1E1A13 0% 0% no-repeat padding-box;
+    opacity: 1;
+    display: block;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    font-size: 20px;
+    font-family: "Raleway";
+    color: #ffffff;
+    font-weight: 300;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 20px;
+    font-family: "Raleway";
+    color: #ffffff;
+    font-weight: 300;
+}
