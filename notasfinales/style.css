@@ -1,0 +1,71 @@
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 15%;
+    display: flex;
+    float: right;
+}
+
+.header {
+    padding-bottom: 20px;
+}
+
+#td {
+    padding-bottom: 20px;
+}
+
+#title {
+    float: left;
+}
+
+.n {
+    font-weight: bold;
+}
+
+td.web {
+
+    padding-left: 250px;
+}
+
+td.cc {
+    font-weight: bold;
+
+}
+
+td.career {
+    font-weight: normal;
+    padding-left: 250px;
+}
+
+.top {
+    border: 3px solid;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    width: 80px;
+
+}
+
+.table {
+    table-layout: auto;
+    width: 100%;
+
+    white-space: nowrap;
+    border-spacing: 0;
+    border-collapse: collapse;
+
+}
+
+.col {
+    padding: 20px;
+    height: 20px;
+
+}
+
+th {
+    text-align: left;
+    padding: 20px;
+    padding-right: 40px;
+    margin-right: 20px;
+
+}
