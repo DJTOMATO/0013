@@ -1,0 +1,19 @@
+#bg_news {
+    background-color: #dc3545;
+}
+
+.newsletter {
+    font-size: 30px;
+}
+
+.fondo-oscuro {
+    background-color: #373a3c;
+    color: #fff;
+}
+
+.logobanner {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-weight: 400;
+    color: #FFFFFF;
+}
